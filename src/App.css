@@ -46,6 +46,10 @@
   color: var(--primary-color);
 }
 
+.navbar .nav-links a.btn-primary {
+  color: #ffffff !important;
+}
+
 .mobile-menu-btn {
   display: none;
   background: none;
