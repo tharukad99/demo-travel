@@ -619,6 +619,16 @@ textarea.form-control {
   .hero-title {
     font-size: 2.5rem;
   }
+
+  .hero {
+    height: 70vh;
+    min-height: 400px;
+  }
+
+  .hero-bg {
+    background-position: center;
+    background-image: url(/images/safari_base_day_mobile.png);
+  }
 }
 .page-wrapper { padding-top: 80px; }
 
